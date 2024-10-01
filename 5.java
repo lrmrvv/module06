@@ -22,3 +22,10 @@ public class LoggingApp {
         logger.close();
     }
 }
+
+/*Пример вывода
+
+Логи с уровнем WARNING и выше:
+WARNING: Это предупреждение
+ERROR: Это ошибка
+*/
